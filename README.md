@@ -26,7 +26,7 @@ Research & Innovation
 🛠️ Tech Stack
 
 Languages
-<img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" alt="Description" width="90%">
+<img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" alt="Description" width="20%">
 
 Python
 C++
