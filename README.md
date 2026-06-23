@@ -124,7 +124,7 @@ Automate Tasks and Write Code Effortlessly
 📫 Connect With Me
 💼 LinkedIn
 💻 GitHub
-📧 vivekpalhal1@gmail.com
+📧 vivekpalhal07@gmail.com
 
 💭 Developer Philosophy
 
