@@ -34,7 +34,8 @@ Languages
 
 Software Knowledge
 
-<img src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub-Codespaces.png" width="10%"> 
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" width="10%">  <img src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub-Codespaces.png" width="10%"> 
+
 
 
 🚀 Featured Projects
