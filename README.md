@@ -32,29 +32,10 @@ Languages
 
 <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" alt="Description" width="10%">  <img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" alt="Description" width="10%">  <img src="https://icon.icepanel.io/Technology/svg/Python.svg" alt="Description" width="10%">  <img src="https://icon.icepanel.io/Technology/svg/C.svg" alt="Description" width="10%">
 
+Softwares Knowlage
 
-Frontend
-React
-Tailwind CSS
-Bootstrap
-Responsive UI/UX
-Backend
-Node.js
-Express.js
-Database
-MongoDB
-Firebase
-AI & Tools
-OpenAI APIs
-Google AI
-Computer Vision
-Prompt Engineering
-Cloud & Dev Tools
-Git
-GitHub
-Google Cloud
-Postman
-VS Code
+<img src="<img src="https://icon.icepanel.io/Technology/svg/Python.svg" alt="Description" width="10%">" alt="Description" width="10%">
+
 
 🚀 Featured Projects
 
