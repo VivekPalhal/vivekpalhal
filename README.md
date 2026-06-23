@@ -30,7 +30,7 @@ Languages
 
 
 
-<img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" alt="Description" width="10%">  <img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" alt="Description" width="10%">  <img src="[https://icon.icepanel.io/Technology/svg/JavaScript.svg](https://icon.icepanel.io/Technology/svg/Python.svg)" alt="Description" width="10%">
+<img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" alt="Description" width="10%">  <img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" alt="Description" width="10%">  <img src="https://icon.icepanel.io/Technology/svg/Python.svg" alt="Description" width="10%">
 
 
 Frontend
