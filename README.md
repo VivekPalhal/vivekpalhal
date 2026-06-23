@@ -34,7 +34,8 @@ Languages
 
 Software Knowledge
 
-<img src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" width="10%">  <img src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub-Codespaces.png" width="10%">  <img src="https://img.icons8.com/?size=96&id=62397&format=png" width="10%">   <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png" width="10%"> <img src="https://icon.icepanel.io/Technology/svg/Git.svg" width="10%"> 
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" width="10%">  <img src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub-Codespaces.png" width="10%">  <img src="https://img.icons8.com/?size=96&id=62397&format=png" width="10%">   <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png" width="10%"> <img src="https://icon.icepanel.io/Technology/svg/Git.svg" width="10%">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Google_AI_Studio_icon_%28May_2026%29.svg/3840px-Google_AI_Studio_icon_%28May_2026%29.svg.png" width="10%"> 
+
 
 
 
