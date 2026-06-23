@@ -32,9 +32,9 @@ Languages
 
 <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" alt="Description" width="10%">  <img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" alt="Description" width="10%">  <img src="https://icon.icepanel.io/Technology/svg/Python.svg" alt="Description" width="10%">  <img src="https://icon.icepanel.io/Technology/svg/C.svg" alt="Description" width="10%">
 
-Softwares Knowlage
+Software Knowledge
 
-<img src="<img src="https://icon.icepanel.io/Technology/svg/Python.svg" alt="Description" width="10%">" alt="Description" width="10%">
+<img src="<img src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub-Codespaces.png">" alt="Description" width="10%">
 
 
 🚀 Featured Projects
