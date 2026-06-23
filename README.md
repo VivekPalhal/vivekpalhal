@@ -1,7 +1,7 @@
 Hi 👋, I'm Vivek Palhal
 
 🚀 AI & Data Science Student | Full-Stack Developer | AI Enthusiast | Researcher
-I'm a B.Tech Artificial Intelligence & Data Science student passionate about building real-world AI applications, modern web platforms, and innovative research projects that solve practical problems.
+I'm a B.Tech student in Artificial Intelligence & Data Science, passionate about building real-world AI applications, modern web platforms, and innovative research projects that solve practical problems.
 I enjoy turning ideas into products using JavaScript, Python, C++, AI, and Cloud technologies while continuously learning new technologies and improving my development skills.
 
 👨‍💻 About Me
@@ -26,8 +26,8 @@ Research & Innovation
 🛠️ Tech Stack
 
 Languages
-![Uploading image.png…]()
-
+![image](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e2fc53aa-6ff4-41b3-aefb-d53231f8f3d7" />
+)
 Python
 C++
 HTML5
