@@ -28,6 +28,8 @@ Research & Innovation
 Languages
 ![image](https://icon.icepanel.io/Technology/svg/JavaScript.svg
 )
+<img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" alt="Description" width="50%">
+
 Python
 C++
 HTML5
