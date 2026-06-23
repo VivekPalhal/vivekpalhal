@@ -26,7 +26,8 @@ Research & Innovation
 🛠️ Tech Stack
 
 Languages
-JavaScript
+![Uploading image.png…]()
+
 Python
 C++
 HTML5
