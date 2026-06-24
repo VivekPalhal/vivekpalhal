@@ -82,15 +82,6 @@ A web application that transforms text prompts into engaging AI-generated short 
 
 📄 Research Projects
 
-SmartVac Trauma Recovery System
-An innovative mechanical medical device concept for removing embedded metallic foreign objects while minimizing tissue damage.
-Research Areas:
-Biomedical Engineering
-Emergency Healthcare
-Trauma Recovery
-Mechanical Design
-Military Medical Applications
-
 Kinetic Energy Harvesting from Road Speed Breakers
 Research focused on generating renewable electricity by converting mechanical energy from vehicles passing over speed breakers.
 
