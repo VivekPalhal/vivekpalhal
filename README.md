@@ -4,7 +4,7 @@ Hi 👋, I'm **Vivek Palhal**
 I'm a B.Tech student in Artificial Intelligence & Data Science, passionate about building real-world AI applications, modern web platforms, and innovative research projects that solve practical problems.
 I enjoy turning ideas into products using JavaScript, Python, C++, AI, and Cloud technologies while continuously learning new technologies and improving my development skills.
 
-👨‍💻 About Me
+**👨‍💻 About Me**
 
 🎓 B.Tech in Artificial Intelligence & Data Science
 🌱 Currently learning
@@ -13,7 +13,7 @@ AI & Machine Learning
 System Design
 Cloud Computing
 
-💡 Interested in
+**💡 Interested in**
 
 Artificial Intelligence
 SaaS Development
@@ -23,16 +23,16 @@ Automation
 Research & Innovation
 🎯 Goal: Build impactful AI products and contribute to open-source while becoming a Software Development Engineer (SDE).
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
-Languages
+**Languages**
 
 
 
 
 <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" alt="Description" width="10%">  <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" alt="Description" width="10%">  <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" alt="Description" width="10%">  <img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" alt="Description" width="10%"> <img src="https://icon.icepanel.io/Technology/svg/C.svg" alt="Description" width="10%"> <img src="https://icon.icepanel.io/Technology/svg/Python.svg" alt="Description" width="10%">  
 
-Software Knowledge
+**Software Knowledge**
 
 <img src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" width="10%">  <img src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub-Codespaces.png" width="10%">  <img src="https://img.icons8.com/?size=96&id=62397&format=png" width="10%">   <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png" width="10%"> <img src="https://icon.icepanel.io/Technology/svg/Git.svg" width="10%">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Google_AI_Studio_icon_%28May_2026%29.svg/3840px-Google_AI_Studio_icon_%28May_2026%29.svg.png" width="10%">   <img src="https://icon.icepanel.io/Technology/svg/Google-Cloud.svg" width="10%">    <img src="https://avatars.slack-edge.com/2025-05-14/8891273522918_30c38bf627ac73075db6_512.png" width="10%">    <img src="https://static.vecteezy.com/system/resources/thumbnails/021/059/825/small/chatgpt-logo-chat-gpt-icon-on-green-background-free-vector.jpg" width="10%"> 
 
@@ -43,7 +43,7 @@ Software Knowledge
 
 
 
-🚀 Featured Projects
+**🚀 Featured Projects**
 
 🎥 ReelAI Studio
 An AI-powered SaaS platform that automatically creates short videos and social media reels from simple prompts.
@@ -54,7 +54,7 @@ Metadata Generation
 Modern Responsive UI
 Export-ready Content
 
-🛡️ Cheating Detector
+**🛡️ Cheating Detector**
 
 An AI-powered online examination proctoring system.
 Highlights
@@ -64,7 +64,7 @@ AI Risk Score Generation
 Suspicious Activity Detection
 Automated Exam Monitoring
 
-📘 JavaScript Learning Platform (Currently Building)
+**📘 JavaScript Learning Platform (Currently Building)**
 
 A gamified platform where developers master JavaScript from beginner to advanced through interactive challenges.
 Features
@@ -76,16 +76,16 @@ XP & Achievement System
 Daily Challenges
 Leaderboards
 
-🎬 AI Video Generator (In Development)
+**🎬 AI Video Generator (In Development)**
 
 A web application that transforms text prompts into engaging AI-generated short videos with voiceovers, subtitles, and animations.
 
-📄 Research Projects
+**📄 Research Projects**
 
 Kinetic Energy Harvesting from Road Speed Breakers
 Research focused on generating renewable electricity by converting mechanical energy from vehicles passing over speed breakers.
 
-🏆 Certifications
+**🏆 Certifications**
 
 Google Cloud Digital Transformation
 Google Cloud Arcade Program
@@ -93,7 +93,7 @@ GenAIus Chats Level 3
 Postman API Fundamentals Student Expert
 Automate Tasks and Write Code Effortlessly
 
-📈 GitHub Stats
+**📈 GitHub Stats**
 
 🌟 Continuously building new projects
 📚 Learning every day
@@ -106,7 +106,7 @@ Automate Tasks and Write Code Effortlessly
 💻 GitHub
 📧 vivekpalhal07@gmail.com
 
-💭 Developer Philosophy
+**💭 Developer Philosophy**
 
 "Every project starts as an idea. With curiosity, consistency, and code, ideas become solutions."
 
