@@ -1,4 +1,4 @@
-Hi 👋, I'm Vivek Palhal
+Hi 👋, I'm **Vivek Palhal**
 
 🚀 AI & Data Science Student | Full-Stack Developer | AI Enthusiast | Researcher
 I'm a B.Tech student in Artificial Intelligence & Data Science, passionate about building real-world AI applications, modern web platforms, and innovative research projects that solve practical problems.
