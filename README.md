@@ -86,9 +86,9 @@ A passionate builder who loves turning ideas into intelligent, impactful product
 - 📱 Fully Responsive UI
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![AI](https://img.shields.io/badge/AI%2FML-FF6B6B?style=flat-square&logo=tensorflow&logoColor=white)](https://github.com/VivekPalhal)
-[![SaaS](https://img.shields.io/badge/SaaS-6C63FF?style=flat-square&logo=rocket&logoColor=white)](https://github.com/VivekPalhal)
-[![Status](https://img.shields.io/badge/Status-🟢%20Live-brightgreen?style=flat-square)](https://github.com/VivekPalhal)
+[![TensorFlow](https://img.shields.io/badge/AI%2FML-FF6B6B?style=flat-square&logo=tensorflow&logoColor=white)](https://github.com/VivekPalhal)
+[![SaaS](https://img.shields.io/badge/SaaS-6C63FF?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/VivekPalhal)
+[![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square&logo=checkmarx&logoColor=white)](https://github.com/VivekPalhal)
 
 </td>
 <td width="50%" valign="top">
@@ -104,8 +104,8 @@ A passionate builder who loves turning ideas into intelligent, impactful product
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org)
-[![AI](https://img.shields.io/badge/Computer%20Vision-FF6B6B?style=flat-square&logo=eye&logoColor=white)](https://github.com/VivekPalhal)
-[![Status](https://img.shields.io/badge/Status-🟢%20Live-brightgreen?style=flat-square)](https://github.com/VivekPalhal)
+[![CV](https://img.shields.io/badge/Computer%20Vision-FF6B6B?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/VivekPalhal)
+[![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square&logo=checkmarx&logoColor=white)](https://github.com/VivekPalhal)
 
 </td>
 </tr>
@@ -126,7 +126,7 @@ A passionate builder who loves turning ideas into intelligent, impactful product
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://javascript.com)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/VivekPalhal)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://github.com/VivekPalhal)
-[![Status](https://img.shields.io/badge/Status-🟡%20In%20Progress-yellow?style=flat-square)](https://github.com/VivekPalhal)
+[![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/VivekPalhal)
 
 </td>
 <td width="50%" valign="top">
@@ -141,8 +141,8 @@ A passionate builder who loves turning ideas into intelligent, impactful product
 - ✨ Dynamic Animations
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![AI](https://img.shields.io/badge/Generative%20AI-6C63FF?style=flat-square&logo=openai&logoColor=white)](https://github.com/VivekPalhal)
-[![Status](https://img.shields.io/badge/Status-🔵%20In%20Development-blue?style=flat-square)](https://github.com/VivekPalhal)
+[![GenAI](https://img.shields.io/badge/Generative%20AI-6C63FF?style=flat-square&logo=openai&logoColor=white)](https://github.com/VivekPalhal)
+[![Status](https://img.shields.io/badge/Status-In%20Development-blue?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/VivekPalhal)
 
 </td>
 </tr>
@@ -159,9 +159,9 @@ A passionate builder who loves turning ideas into intelligent, impactful product
 
 > Research exploring the potential of generating renewable electrical energy from mechanical kinetic energy produced by vehicles passing over speed breakers — contributing to sustainable, green infrastructure.
 
-[![Research](https://img.shields.io/badge/Domain-Renewable%20Energy-brightgreen?style=flat-square&logo=leaf&logoColor=white)](https://github.com/VivekPalhal)
+[![Research](https://img.shields.io/badge/Domain-Renewable%20Energy-brightgreen?style=flat-square&logo=energizer&logoColor=white)](https://github.com/VivekPalhal)
 [![Type](https://img.shields.io/badge/Type-Research%20Paper-orange?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/VivekPalhal)
-[![Status](https://img.shields.io/badge/Status-🟣%20Research-purple?style=flat-square)](https://github.com/VivekPalhal)
+[![Status](https://img.shields.io/badge/Status-Research-purple?style=flat-square&logo=academia&logoColor=white)](https://github.com/VivekPalhal)
 
 </details>
 
@@ -173,37 +173,45 @@ A passionate builder who loves turning ideas into intelligent, impactful product
 
 <table>
 <tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=VivekPalhal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&rank_icon=github" alt="Vivek's GitHub Stats" />
+<td colspan="2" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VivekPalhal&theme=tokyonight" alt="Vivek's Profile Summary" width="100%" />
 </td>
-<td>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VivekPalhal&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="Vivek's Streak Stats" />
+</tr>
+<tr>
+<td align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VivekPalhal&theme=tokyonight" alt="Vivek's GitHub Stats" />
 </td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekPalhal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff" alt="Vivek's Top Languages" />
+<td align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VivekPalhal&theme=tokyonight&utcOffset=5.5" alt="Vivek's Productive Time" />
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VivekPalhal&theme=tokyonight" alt="Repos Per Language" />
+</td>
+<td align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VivekPalhal&theme=tokyonight" alt="Most Commit Language" />
 </td>
 </tr>
 </table>
 
-</div>
+<br/>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=VivekPalhal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VivekPalhal&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VivekPalhal&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VivekPalhal/VivekPalhal/output/activity-graph.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VivekPalhal/VivekPalhal/output/activity-graph.svg" />
+  <img alt="Activity Graph" src="https://raw.githubusercontent.com/VivekPalhal/VivekPalhal/output/activity-graph.svg" />
+</picture>
 
 </div>
 
@@ -214,7 +222,7 @@ A passionate builder who loves turning ideas into intelligent, impactful product
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VivekPalhal/VivekPalhal/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VivekPalhal/VivekPalhal/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VivekPalhal/VivekPalhal/output/snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/VivekPalhal/VivekPalhal/output/snake.svg" />
 </picture>

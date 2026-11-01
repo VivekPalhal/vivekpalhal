@@ -1,0 +1,42 @@
+name: Generate Activity Graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate activity graph SVG
+        uses: Ashutosh00710/github-readme-activity-graph@v1.6.2
+        with:
+          username: ${{ github.repository_owner }}
+          theme: tokyo-night
+          hide_border: true
+          area: true
+          area_color: "6C63FF"
+          line: "6C63FF"
+          point: "FF6B6B"
+          bg_color: "0D1117"
+          color: "6C63FF"
+          custom_title: "Vivek's Contribution Activity"
+          output_file: dist/activity-graph.svg
+
+      - name: Push activity graph to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
